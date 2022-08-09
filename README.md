@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Claudio R. Carvalho
-- 🌱 I’m currently learning Java e Devops
+- 🌱 I’m currently learning Java, Typescript e Devops
 <br>
 <div>
   <a href = "mailto:claudfatec@gmail.com="> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="Gmail"></a>
