@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <img src="https://img.shields.io/badge/Claudio-R.Carvalho-yellow">
-- 🌱 I’m currently learning Java, Typescript, Devops e outros...
+- 🌱 I’m currently learning Terraform, Python, CloudFormation e outros...
 <br>
 <div>
   <span>
